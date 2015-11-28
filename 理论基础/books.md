@@ -16,17 +16,13 @@
 
 * 组合数学(optional)
 
-### 1.2 书籍相关
-
-* [京东全套](http://item.jd.com/1329985245.html)，这个比较齐全，不过比较适合考研使用。
-
 ## 2. 计算机算法理论(基于java推荐)
 
 * [数据结构](http://item.jd.com/10058405.html)
 
 * [算法](http://item.jd.com/11098789.html)
 
-* [算法导论（选择性阅读）](http://item.jd.com/11144230.html)
+* [算法导论（optional）](http://item.jd.com/11144230.html)
 
 * [设计模式](http://item.jd.com/11414555.html)
 

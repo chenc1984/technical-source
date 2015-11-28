@@ -18,10 +18,6 @@
 
 * [京东全套](http://item.jd.com/1329985245.html)，这个比较齐全，不过比较适合考研使用。
 
-### 1.3 资源相关
-
-### 1.4 其他
-
 ## 2. 计算机算法理论(基于java推荐)
 
 * [数据结构](http://item.jd.com/10058405.html)
@@ -32,12 +28,33 @@
 
 * [设计模式](http://item.jd.com/11414555.html)
 
-## 3. 其他
+## 3. 视频课程
 
-* [leetcode算法联系平台](https://leetcode.com/)
+* [吴恩达机器学习视频](https://www.coursera.org/learn/machine-learning)
+
+* [大数据导论](https://www.coursera.org/learn/intro-to-big-data)
+
+* [基础微积分(内容类似高数)](https://www.coursera.org/learn/calculus1)
+
+* [线性代数](https://www.coursera.org/course/matrix)
+
+* [离散数学](https://www.coursera.org/course/dmathgen)
+
+* [算法-1](https://www.coursera.org/course/algs4partI),[算法-2](https://www.coursera.org/course/algs4partII)
+
+* [算法设计与分析1](https://www.coursera.org/course/algo), [算法设计与分析2](https://www.coursera.org/course/algo2)
+
+* [自然语言处理入门](https://zh.coursera.org/course/nlpintro), [自然语言处理-micheal Collins](https://zh.coursera.org/course/nlangp),[自然语言处理-stanford](https://zh.coursera.org/course/nlp)
+
+## 4. 其他
+
+* [leetcode算法练习平台](https://leetcode.com/)
+
+* [poj算法练习平台](http://poj.org/)
 
 * [w3cschool 菜鸟教程](http://www.runoob.com/)
 
 * [coursera](https://zh.coursera.org/)
 
-* 
+* [UFLDL](http://ufldl.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B) 
+
